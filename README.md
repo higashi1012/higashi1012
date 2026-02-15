@@ -1,6 +1,6 @@
 ## TL;DR
 
-Backend と Cloud Infrastructure の領域で開発・運用に取り組んでいます。
+Backend と Cloud Infrastructure の領域で開発・運用に取り組んでいます。  
 PM / PMO として、要件整理から進行管理までのプロジェクト推進にも携わっています。
 
 ## Focus Areas
