@@ -54,7 +54,14 @@ PM / PMO として、要件整理から進行管理までのプロジェクト�
   <a href="https://www.ipa.go.jp/shiken/kubun/fe.html"><img src="https://img.shields.io/badge/IPA-Fundamental_Information_Technology_Engineer_(2024.04)-005BAC?style=flat-square" alt="Fundamental Information Technology Engineer" /></a>
 </p>
 
+### Other
+
+<p>
+  <img src="https://img.shields.io/badge/%E6%97%A5%E5%95%86%E7%B0%BF%E8%A8%983%E7%B4%9A-2024.09-5A4A42?style=flat-square" alt="日商簿記3級" />
+</p>
+
 ## Experience
 
+- 小平市役所 (2017-2022) 税金徴収業務・障がい者支援業務
 - Nuco (2023) バックエンド / クラウドインフラエンジニア
 - Freelance (2024-Present) バックエンド / クラウドインフラエンジニア、PM / PMO
